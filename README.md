@@ -1,6 +1,7 @@
 
 
 # Rock-Paper-Scissors
+![enter image description here](https://user-images.githubusercontent.com/63260382/100106703-ee5e2580-2e79-11eb-8612-636d36ec24db.jpg)
 
 Playable Rock-Paper-Scissors game, with a Player vs Computer mode. Practice using arrays, the Random library, formatted strings, and algorithms.
 
